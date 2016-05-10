@@ -8,4 +8,4 @@ VOLUME /app
 
 WORKDIR /app
 
-ENTRYPOINT ["/bin/bash"]
+CMD ["/bin/bash"]
